@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://github.com/user-attachments/assets/f50b8c0a-d4d5-48c3-bc04-56fb44579d97" alt="Oxfords">
+  <img width="400" src="https://github.com/user-attachments/assets/e0f1bf22-9f6d-4f04-9ead-a14a9faed80a" alt="Binders">
 </p>
 
 <p align="center">
