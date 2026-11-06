@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
-<img width="180" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/aad2c21c-142e-49fd-816f-a14eb7d985e8">
+<img width="180" alt="Classic Asshole" src="https://github.com/user-attachments/assets/23b3e254-3336-4983-9dbe-6036731bb7a5">
+</p>
+
+<p align="center">
+<img width="180" alt="Typewriter" src="https://github.com/user-attachments/assets/aad2c21c-142e-49fd-816f-a14eb7d985e8">
 </p>
 
