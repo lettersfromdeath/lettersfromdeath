@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
-<img width="180" alt="Typewriter" src="https://github.com/user-attachments/assets/aad2c21c-142e-49fd-816f-a14eb7d985e8">
+  <img src="https://github.com/user-attachments/assets/aad2c21c-142e-49fd-816f-a14eb7d985e8" width="25%" />
+  <img src="https://github.com/user-attachments/assets/05087bab-51e0-442e-add6-85299fe17e28" width="25%" />
 </p>
+
 
