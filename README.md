@@ -15,4 +15,6 @@
   <img src="https://github.com/user-attachments/assets/23b3e254-3336-4983-9dbe-6036731bb7a5" width="20%" />
 </p>
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=000000&center=true&width=600&lines=He+who+fears+Death+more+than+anything." alt="Typing SVG" /></a>
+</p>
