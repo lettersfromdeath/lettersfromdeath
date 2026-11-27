@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=0A0A0A&center=true&width=600&lines=He+who+fears+Death+more+than+anything." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=0D0D0D&center=true&width=600&lines=He+who+fears+Death+more+than+anything." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
