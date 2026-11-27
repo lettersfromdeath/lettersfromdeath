@@ -18,3 +18,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=25&pause=1000&color=0A0A0A&center=true&width=600&lines=He+who+fears+Death+more+than+anything." alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+ <img alt="Raven Ink" width="250" src="https://github.com/user-attachments/assets/3924e792-e219-4644-8529-d5ce191a250d" />
+</p>
+
+
+
